@@ -28,5 +28,3 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-.env
-API_KEY=d16ca6b99b1d03da5df95f3d
